@@ -11,8 +11,10 @@
 [https://colab.research.google.com/](https://colab.research.google.com/)
 
 
-## Python Homework Projects
+## Python Homework Projects [->>](/Homework%20Projects/)
+
 ## Online Class Projects
+
 ## Compulsory Project
 
 
